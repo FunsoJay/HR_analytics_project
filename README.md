@@ -13,7 +13,7 @@ Power BI was used in this project to explore attrition across various factors—
 # Findings and Insights
 1. The R&D department shows the highest attrition at 56.1%, followed by Sales at 38.8%, indicating urgent turnover issues. These departments should be prioritized for retention through focused career development, stronger incentives, and regular employee engagement.
   
-2.Attrition is highest among employees aged 25–34 and this group likely includes early-career professionals and recent graduates. To improve retention, organizations should consider structured onboarding, clear career growth paths, mentorship programs, and flexible work options that support development and work-life balance at this foundational career stage.
+2. Attrition is highest among employees aged 25–34 and this group likely includes early-career professionals and recent graduates. To improve retention, organizations should consider structured onboarding, clear career growth paths, mentorship programs, and flexible work options that support development and work-life balance at this foundational career stage.
 
 3. Employees with Life Sciences, Medical, and Marketing backgrounds show the highest attrition, led by Life Sciences (89 exits). This highlights possible role mismatch or high demand. Strengthening role-fit assessments, onboarding, and career path clarity can improve retention.
 
