@@ -1,4 +1,4 @@
-# HR_analytics_project
+# HR Analytics Project
 ![](https://github.com/FunsoJay/HR_analytics_project/blob/main/HR%20Analytics%20picture.png)
 Here, I analyzed workforce data to identify patterns and root causes of employee attrition, providing actionable insights that supported HR in making data-driven decisions and developing proactive retention strategies.
 Using Power BI, I explored employee attrition across factors such as gender, satisfaction ratings, and education levels, uncovering actionable insights that empowered HR to make data-driven decisions.
