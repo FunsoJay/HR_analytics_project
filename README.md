@@ -1,6 +1,8 @@
 # HR_analytics_project
-Explored company data to uncover trends in employee attrition across key factors, providing actionable insights to help the HR team make informed decisions and proactively improve retention.
-Power BI was used in this project to explore attrition across various factors—including gender, satisfaction ratings, and education levels—resulting in actionable insights to support HR decision-making.
+![](https://github.com/FunsoJay/HR_analytics_project/blob/main/HR%20Analytics%20picture.png)
+
+I analyzed workforce data to identify patterns and root causes of employee attrition, providing actionable insights that supported HR in making data-driven decisions and developing proactive retention strategies.
+Using Power BI, I explored employee attrition across factors such as gender, satisfaction ratings, and education levels, uncovering actionable insights that empowered HR to make data-driven decisions.
 
 # Objectives
 1. Which departments require urgent retention strategies due to high employee attrition?
@@ -9,11 +11,13 @@ Power BI was used in this project to explore attrition across various factors—
 4. Which job roles report the lowest satisfaction, and how does this correlate with attrition trends?
 5. Is there a gender-based disparity in average monthly income, and what are the implications for pay equity?
 
+Analysis & Visualization
+![]()
 
-# Findings and Insights
+# Insights & Recommendations
 1. The R&D department shows the highest attrition at 56.1%, followed by Sales at 38.8%, indicating urgent turnover issues. These departments should be prioritized for retention through focused career development, stronger incentives, and regular employee engagement.
   
-2. Attrition is highest among employees aged 25–34 and this group likely includes early-career professionals and recent graduates. To improve retention, organizations should consider structured onboarding, clear career growth paths, mentorship programs, and flexible work options that support development and work-life balance at this foundational career stage.
+2. Attrition is highest among employees aged 25–34 and this group likely includes early-career professionals and recent graduates.o improve retention, organizations should focus on structured onboarding, clear career paths, mentorship, and flexible work options that support growth and work-life balance.
 
 3. Employees with Life Sciences, Medical, and Marketing backgrounds show the highest attrition, led by Life Sciences (89 exits). This highlights possible role mismatch or high demand. Strengthening role-fit assessments, onboarding, and career path clarity can improve retention.
 
