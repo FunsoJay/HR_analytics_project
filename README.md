@@ -12,7 +12,7 @@ Using Power BI, I explored employee attrition across factors such as gender, sat
 5. Is there a gender-based disparity in average monthly income, and what are the implications for pay equity?
 
 Analysis & Visualization
-![]()
+![](https://github.com/FunsoJay/HR_analytics_project/blob/main/HR%20Analytics%20Dashboard.png)
 
 # Insights & Recommendations
 1. The R&D department shows the highest attrition at 56.1%, followed by Sales at 38.8%, indicating urgent turnover issues. These departments should be prioritized for retention through focused career development, stronger incentives, and regular employee engagement.
