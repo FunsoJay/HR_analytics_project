@@ -10,7 +10,7 @@ Using Power BI, I explored employee attrition across factors such as gender, sat
 4. Which job roles report the lowest satisfaction, and how does this correlate with attrition trends?
 5. Is there a gender-based disparity in average monthly income, and what are the implications for pay equity?
 
-Analysis & Visualization
+# Analysis & Visualization
 ![](https://github.com/FunsoJay/HR_analytics_project/blob/main/HR%20Analytics%20Dashboard.png)
 
 # Insights & Recommendations
